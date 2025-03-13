@@ -1,4 +1,4 @@
------------------------------------------Landing Page - Exclusive Corporate Offers
+poject 1-----------------------------------------Landing Page - Exclusive Corporate Offers
 This is a responsive and modern landing page designed for a corporate deals platform. It highlights exclusive discounts for professionals and provides secure employee verification.
 
 Features
@@ -13,7 +13,7 @@ Tech Stack
 - **HTML5**
 - **CSS3**
 
--------------------------------------------Personal Portfolio Website
+project 2-------------------------------------------Personal Portfolio Website
 A dynamic and visually appealing personal portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and contact information.
 
 - **Home Page**: Engaging introduction.
@@ -29,7 +29,7 @@ Tech Stack
 - **CSS3**
 - **JavaScript**
 
------------------------------------------- Calculator 
+project 3------------------------------------------ Calculator 
 A functional and interactive calculator built using HTML, CSS, and JavaScript. It performs all basic arithmetic operations and includes a text-to-speech feature.
 Features
 - **Basic Operations : Addition, subtraction, multiplication, division.
