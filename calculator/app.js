@@ -47,10 +47,5 @@ buttons.forEach(button => {
 
         lastChar = value; // Update last entered character
         input.value = str; // Update display
-        if(input.value === '143')spokenText ="I Love You";
-        if(input.value === '1432')spokenText ="I Love You too";
-        if(input.value === '637')spokenText ="Always and Forever"
-        if(input.value === '101')spokenText ="hahahahahahahahahahahaha"
-        speak(spokenText); 
     });
 });
